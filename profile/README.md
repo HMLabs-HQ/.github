@@ -8,18 +8,15 @@ Technology and open source by Henry Meyer.
 
 Minecraft projects including mods, plugins, modpacks and resource packs.
 
-* [GitHub](https://github.com/HMLabs-Gaming)
-* [Modrinth](https://modrinth.com/organization/9zYhowm8)
-* [CurseForge](https://www.curseforge.com/members/henrymmey)
 * [Website](https://gaming.hmlabs.eu/)
+* [GitHub](https://github.com/HMLabs-Gaming)
 
 ### @henrymmey/badges
 
 Beautiful badges for your projects
 
-* [GitHub Repository](https://github.com/HMLabs-HQ/badges)
 * [Website](https://badges.hmlabs.eu/)
-
+* [GitHub Repository](https://github.com/HMLabs-HQ/badges)
 
 ### Other Projects
 
