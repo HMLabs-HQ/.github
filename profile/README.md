@@ -13,6 +13,14 @@ Minecraft projects including mods, plugins, modpacks and resource packs.
 * [CurseForge](https://www.curseforge.com/members/henrymmey)
 * [Website](https://gaming.hmlabs.eu/)
 
+### @henrymmey/badges
+
+Beautiful badges for your projects
+
+* [GitHub Repository](https://github.com/HMLabs-HQ/badges)
+* [Website](https://badges.hmlabs.eu/)
+
+
 ### Other Projects
 
 There are currently no other HMLabs projects.
